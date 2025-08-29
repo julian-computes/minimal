@@ -1,6 +1,10 @@
 # minimal
 
-Modified minimal theme for zsh based on [zimfw's minimal](https://github.com/zimfw/minimal) which is based on [subnixr's minimal](https://github.com/subnixr/minimal).
+Modified minimal theme for zsh forked from [zimfw's minimal](https://github.com/zimfw/minimal) which is based on [subnixr's minimal](https://github.com/subnixr/minimal).
+
+## Warning
+
+May be less minimal than the minimal theme it was forked from.
 
 ## Instructions
 
