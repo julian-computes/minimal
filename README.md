@@ -10,7 +10,7 @@ May be less minimal than the minimal theme it was forked from.
 
 ## Instructions
 
-This theme can be used with the [zimfw](https://zimfw.sh/) ZSH framework.
+This theme is intended for use with the [zimfw](https://zimfw.sh/) ZSH framework.
 
 ```shell
 # Reference the module in your .zimrc
